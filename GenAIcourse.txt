@@ -1,0 +1,29 @@
+How does generative AI differ from other types of AI?
+Generative AI creates new and original content like text, images, or music, showcasing creativity, unlike traditional AI that focuses on analysis or predictions.
+
+What are the ethical considerations in generative AI?
+Ethical concerns include misuse, deceptive content, privacy violations, bias in training data, and the need for responsible deployment.
+
+Is generative AI capable of generating biased content?
+Yes, biases in training data can lead to biased outputs. Mitigating these requires careful data curation.
+
+Can generative AI replace human creativity?
+Generative AI enhances creativity but lacks the depth of human emotions and intuition, making it a complementary tool.
+
+Is ChatGPT a generative AI?
+Yes, ChatGPT is a generative AI designed to produce text-based responses.
+
+LangChain
+
+What is LangChain?
+LangChain is a Python library and framework for building applications using large language models (LLMs).
+
+How does LangChain differ from LLMs?
+LangChain provides tools to integrate and manage LLMs, simplifying the development process.
+
+What programming languages does LangChain support?
+Primarily Python, with additional support for JavaScript and TypeScript.
+
+Is LangChain open source?
+Yes, it is open source and supported by an active developer community.
+
