@@ -1,0 +1,62 @@
+1.Extracting Insights from Customer Data
+Suppose you have a list of dictionaries, where each dictionary represents a customer's data. Each dictionary has the following keys: name, age, orders. The orders key contains a list of order IDs.
+
+customer_data = [
+    {'name': 'Alice', 'age': 30, 'orders': [101, 103, 105]},
+    {'name': 'Bob', 'age': 25, 'orders': [102, 104]},
+    {'name': 'Charlie', 'age': 28, 'orders': [106]}
+]
+
+
+2.Temperature Data Mapping
+
+A compilation of temperature readings over a week is provided. Each temperature corresponds to a specific da
+Expected result looks like below:
+
+temperature_dict = {
+    'Monday': 72,
+    'Tuesday': 75,
+    'Wednesday': 68,
+    'Thursday': 70,
+    'Friday': 74,
+    'Saturday': 79,
+    'Sunday': 81
+}
+
+
+3.Inventory Revenue Calculation
+
+The inventory of a grocery store is being managed. Each product is represented as a dictionary containing keys product_id, name, quantity, and price.
+inventory = [
+    {'product_id': 101, 'name': 'Apple', 'quantity': 50, 'price': 0.5},
+    {'product_id': 102, 'name': 'Banana', 'quantity': 30, 'price': 0.3},
+    {'product_id': 103, 'name': 'Orange', 'quantity': 40, 'price': 0.4}
+]
+
+
+
+4.Social Media Engagement Rate
+
+Information regarding user interaction with posts on a social media platform is available. Each post is represented as a dictionary containing post_id, likes, comments, and shares
+
+post_data = [
+    {'post_id': 101, 'likes': 50, 'comments': 12, 'shares': 5},
+    {'post_id': 102, 'likes': 75, 'comments': 8, 'shares': 10},
+    {'post_id': 103, 'likes': 30, 'comments': 5, 'shares': 2}
+]
+
+5.Shared Course Enrollments
+
+The task involves overseeing student course enrollments. Each student's information is captured using a dictionary with student_id, name, and courses attributes. The courses attribute contains a set of course IDs.
+
+students = [
+    {'student_id': 1, 'name': 'Alice', 'courses': {101, 103, 105}},
+    {'student_id': 2, 'name': 'Bob', 'courses': {102, 104}},
+    {'student_id': 3, 'name': 'Charlie', 'courses': {106}}
+]
+
+
+
+
+
+
